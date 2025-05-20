@@ -1,0 +1,18 @@
+.block-container {
+    padding-top: 2rem !important;
+}
+h1 {
+    margin-top: 0.5rem !important;
+    padding-top: 0.5rem !important;
+    margin-bottom: 0.5rem !important;
+}
+.streamlit-expanderHeader {
+    margin-top: 0.5rem !important;
+}
+div[data-testid="stButton"] {
+    display: flex;
+    justify-content: flex-end;
+}
+div[data-testid="stHorizontalBlock"] > div[tabindex="0"] {
+    padding-right: 0.5rem !important;
+}

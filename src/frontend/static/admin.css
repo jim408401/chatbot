@@ -1,0 +1,17 @@
+.block-container {
+    padding-top: 2rem !important;
+}
+h1 {
+    margin-top: 0.5rem !important;
+    padding-top: 0.5rem !important;
+    margin-bottom: 0.5rem !important;
+}
+[data-testid="stDataFrame"] {
+    margin-top: 0.5rem !important;
+}
+.chart-container {
+    background-color: #ffffff0d;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 15px;
+}

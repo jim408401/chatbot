@@ -1,0 +1,10 @@
+footer {visibility: hidden;}
+#MainMenu {visibility: hidden;}
+.stDeployButton {visibility: hidden;}
+.block-container {
+    padding-top: 0rem !important; 
+    padding-bottom: 0rem !important;
+    margin-top: 1.5rem !important;
+}
+.stApp {height: 100vh;}
+header {visibility: hidden;}

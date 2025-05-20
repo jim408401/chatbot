@@ -1,0 +1,31 @@
+.fixed-input-container {
+    position: fixed;
+    bottom: 0;
+    left: 250px; /* Adjust to match sidebar width */
+    background-color: #0E1117;
+    z-index: 999;
+}
+[data-testid="stChatMessageContent"] {
+    margin-bottom: 0;
+}
+section[data-testid="stVerticalBlock"] {
+    padding-bottom: 0 !important;
+}
+.block-container {
+    padding-top: 2rem !important;
+}
+h1 {
+    margin-top: 0.5rem !important;
+    padding-top: 0.5rem !important;
+}
+[data-testid="stFeedback"] {
+    scale: 0.8;
+    opacity: 0.4;
+    justify-content: flex-end !important;
+    margin-top: -10px !important; 
+    margin-bottom: -15px !important;
+    transition: opacity 0.2s;
+}
+[data-testid="stFeedback"]:hover {
+    opacity: 0.8;
+}

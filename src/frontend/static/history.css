@@ -1,0 +1,14 @@
+.block-container {
+    padding-top: 2rem !important;
+}
+h1 {
+    margin-top: 0.5rem !important;
+    padding-top: 0.5rem !important;
+    margin-bottom: 0.5rem !important;
+}
+[data-testid="stDataFrame"] {
+    margin-top: 0.5rem !important;
+}
+.stTextInput {
+    margin-top: -5px !important;
+}
