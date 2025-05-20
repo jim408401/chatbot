@@ -1,4 +1,4 @@
-# DDS Chatbot
+# Chatbot
 
 A document question-answering system based on RAG technology, integrating LangChain framework and Ollama local language model. Supports file upload, vector storage and retrieval, Reranker sorting, and provides chat interface and usage record functionality.
 
